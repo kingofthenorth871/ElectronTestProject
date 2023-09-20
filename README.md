@@ -5,3 +5,6 @@ Electron test project where we try to see if electron.js can display and open mu
 
 To run the project:
 open up the command line interface in the ElectronTestProject folder and type: npm run start
+
+
+to try to login to the websites/apps we are integrating with use the logins on this page: https://flow-ai-us.atlassian.net/wiki/spaces/~63b326cbd3aeefa4054316d8/pages/16023555/Flow-135+API+access+and+API+integrations+with+other+software+solutions
