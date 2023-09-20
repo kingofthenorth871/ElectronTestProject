@@ -4,4 +4,4 @@ Electron test project where we try to see if electron.js can display and open mu
 
 
 To run the project:
-open up the command line interface in the main folder and type: npm run start
+open up the command line interface in the ElectronTestProject folder and type: npm run start
